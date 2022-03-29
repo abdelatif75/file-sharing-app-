@@ -1,5 +1,5 @@
 @echo off
 
-cd server && npm run dev
+cd server && node .
 
 pause
